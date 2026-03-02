@@ -12,3 +12,7 @@
 ## 21
 
 - See open problems: https://en.wikipedia.org/wiki/Amicable_numbers
+
+## 94
+
+- Unsolved
